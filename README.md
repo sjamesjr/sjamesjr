@@ -1,14 +1,14 @@
 ## Hi there, I'm Sam James! 👋
 
 I'm a **passionate Software Engineer** that focuses on creating **well-designed, scalable applications** while emphasizing **clean code**, **user experience**, and **continuous learning**. 
-My background is in Education and I hold a **Master's degree in International Business Administration**, and a **Bachelor's Degree in Hospitality and Tourism Managment** both from **Florida International University**.
+My background is in Hospitality where I've worked on projects ranging from hotels and restaurants to cruise shipping ports. I hold a **Master's degree in International Business Administration**, and a **Bachelor's Degree in Hospitality and Tourism Managment** both from **Florida International University**.
 
 
 I love and am dedicated to delivering **high-quality projects** that solve **real-world problems**. 
 Feel free to explore my latest work on my [**GitHub profile**](https://github.com/sjamesjr). If you have any questions or just want to connect, don’t hesitate to reach out!
 
 ### 📫 Let's Connect
-I'm always excited to connect with fellow software engineers, developers, and tech enthusiasts! If you're interested in sharing ideas, collaborating, or just chatting about tech, feel free to reach out to me on [![LinkedIn: Natalia Rico](https://img.shields.io/badge/-Natalia%20Rico-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sam-james-jr-b35092138/).
+I'm always excited to connect with fellow software engineers, developers, and tech enthusiasts! If you're interested in sharing ideas, collaborating, or just chatting about tech, feel free to reach out to me on [![LinkedIn: Sam James Jr](https://img.shields.io/badge/-Natalia%20Rico-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sam-james-jr-b35092138/).
 You can also check out my [**portfolio**]().  Let’s connect and inspire each other!
 
 ### Languages and Tools:
