@@ -8,7 +8,7 @@ I love and am dedicated to delivering **high-quality projects** that solve **rea
 Feel free to explore my latest work on my [**GitHub profile**](https://github.com/sjamesjr). If you have any questions or just want to connect, don’t hesitate to reach out!
 
 ### 📫 Let's Connect
-I'm always excited to connect with fellow software engineers, developers, and tech enthusiasts! If you're interested in sharing ideas, collaborating, or just chatting about tech, feel free to reach out to me on [![LinkedIn: Sam James Jr](https://img.shields.io/badge/-Sam%20James Jr-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sam-james-jr-b35092138/).
+I'm always excited to connect with fellow software engineers, developers, and tech enthusiasts! If you're interested in sharing ideas, collaborating, or just chatting about tech, feel free to reach out to me.
 You can also check out my [**portfolio**]().  Let’s connect and inspire each other!
 
 ### Languages and Tools:
