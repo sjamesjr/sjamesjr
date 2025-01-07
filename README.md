@@ -18,7 +18,5 @@ You can also check out my [**portfolio**]().  Let’s connect and inspire each o
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
   ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
 
-### Support My Work
-If you enjoy my work and would like to support me, feel free to buy me a coffee! Your support helps me continue working on exciting projects and learning new technologies.
 
 ## Thank you for visiting my profile! 🌟 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=nataliara28.visitor-badge&format=true)
