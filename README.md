@@ -1,4 +1,4 @@
-## Hi there, I'm Sam James! 👋
+## Hi there, I'm Sam! 👋
 
 I'm a **passionate Software Engineer** that focuses on creating **well-designed, scalable applications** while emphasizing **clean code**, **user experience**, and **continuous learning**. 
 My background is in Hospitality where I've worked on projects ranging from hotels and restaurants to cruise shipping ports. I hold a **Master's degree in International Business Administration**, and a **Bachelor's Degree in Hospitality and Tourism Managment** both from **Florida International University**.
