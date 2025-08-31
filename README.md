@@ -12,20 +12,24 @@ I'm always excited to connect with fellow software engineers, developers, and te
 You can also check out my [**portfolio**]().  Let’s connect and inspire each other!
 
 ### Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![APIs](https://img.shields.io/badge/-APIs-00457C?style=flat&logo=api&logoColor=white) 
- ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) 
- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
-  ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![APIs](https://img.shields.io/badge/-APIs-00457C?style=flat&logo=api&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Filebeat](https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-4285F4?style=flat&logo=githubactions&logoColor=white) 
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) 
+![Filebeat](https://img.shields.io/badge/-Filebeat-005571?style=flat&logo=elastic&logoColor=white) 
+![Logstash](https://img.shields.io/badge/-Logstash-005571?style=flat&logo=logstash&logoColor=white) 
+![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat&logo=kibana&logoColor=white) 
+![Elastic Stack](https://img.shields.io/badge/-Elastic%20Stack-005571?style=flat&logo=elasticsearch&logoColor=white)
+
 
 
 
